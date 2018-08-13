@@ -7,3 +7,10 @@
 ### What is the distinct number of subjects present in the entire school
 ### What is the count of the number of students in the school, whose name is Mathew and marks are 55
 
+### Code -
+#### RDD_Assmt#1_Task#1.1.scala
+
+### Execution screenshots -
+#### RDD_Assmt#1_Task#1_ScreenShot#1.1a.png
+#### RDD_Assmt#1_Task#1_ScreenShot#1.1b.png
+
