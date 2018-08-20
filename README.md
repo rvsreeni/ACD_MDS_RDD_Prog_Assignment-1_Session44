@@ -13,3 +13,15 @@
 #### RDD_Assmt#1_Task#1_ScreenShot#1.1a.png
 #### RDD_Assmt#1_Task#1_ScreenShot#1.1b.png
 
+### Task1 - Problem Statement 2:
+#### What is the count of students per grade in the school?
+#### Find the average of each student (Note - Mathew is grade-1, is different from Mathew in some other grade!)
+#### What is the average score of students in each subject across all grades?
+#### What is the average score of students in each subject per grade?
+#### For all students in grade-2, how many have average score greater than 50?
+
+### Code -
+
+### Execution screenshots -
+
+
