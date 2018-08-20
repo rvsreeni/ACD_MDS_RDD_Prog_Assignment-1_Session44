@@ -27,3 +27,14 @@
 #### RDD_Assmnt#1_Task#1_ScreenShot#1.2a.png
 #### RDD_Assmnt#1_Task#1_ScreenShot#1.2b.png
 
+### Task 2
+#### What is the distribution of the total number of air-travelers per year
+#### What is the total air distance covered by each user per year
+#### Which user has travelled the largest distance till date
+#### What is the most preferred destination for all users.
+
+### Code -
+#### RDD_Assmnt#1_Task#2.scala
+
+### Execution screenshots -
+#### RDD_Assmnt#1_Task#1_ScreenShot#1.2a.png
