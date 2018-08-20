@@ -37,4 +37,7 @@
 #### RDD_Assmnt#1_Task#2.scala
 
 ### Execution screenshots -
-#### RDD_Assmnt#1_Task#1_ScreenShot#1.2a.png
+#### RDD_Assmnt#1_Task#2_ScreenShot#2a.png
+#### RDD_Assmnt#1_Task#2_ScreenShot#2b.png
+#### RDD_Assmnt#1_Task#2_ScreenShot#2c.png
+#### RDD_Assmnt#1_Task#2_ScreenShot#2d.png
