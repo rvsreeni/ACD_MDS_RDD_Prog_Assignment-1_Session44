@@ -21,7 +21,9 @@
 #### For all students in grade-2, how many have average score greater than 50?
 
 ### Code -
+#### RDD_Assmnt#1_Task#1.2.scala
 
 ### Execution screenshots -
-
+#### RDD_Assmnt#1_Task#1_ScreenShot#1.2a.png
+#### RDD_Assmnt#1_Task#1_ScreenShot#1.2b.png
 
